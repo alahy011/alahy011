@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami%20👨🏻‍💻&width=800&height=400)](https://github.com/alahy011/alahy011)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami%20🤖&width=1000&height=200)](https://github.com/alahy011/alahy011)
 
 ###
 <div align="center">
