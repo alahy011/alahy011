@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Hamid Reza Alami from Adelaide<br><br>- 📚 I'm currently student at University of South Australia<br>- 📖 Major: IT (Software Development)<br>- ⚡ In my free time, I am developing mobile and web applications, listening to music, and playing games.</p>
+<p align="left">I'm Hamid Reza Alami from Adelaide<br><br>- 📚 I'm currently student at University of South Australia<br>- 📖 Major: Information Technology (Software Development)<br>- ⚡ In my free time, I am developing mobile and web applications, listening to music, and playing games.</p>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🛠️   Platform and tool</h3>
+<h3 align="left">🛠️   Platform and tools</h3>
 
 ###
 
