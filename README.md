@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Hamid Reza Alami from Adelaide<br><br>- 📚 I'm currently student at University of South Australia<br>- 📖 Major: Information Technology (Software Development)<br>- ⚡ In my free time, I am developing mobile and web applications, listening to music, and playing games.</p>
+<p align="left">I'm Hamid Reza Alami from Adelaide<br><br>- 📚 I'm currently student at University of South Australia<br>- 📖 Major: Information Technology & Software Development<br>- ⚡ In my free time, I am developing mobile and web applications, listening to music, and playing games.</p>
 
 ###
 
@@ -43,12 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
 ###
 
-<h3 align="left">🛠️   Platform and tools</h3>
+<h3 align="left">🛠️ Platform and tools</h3>
 
 ###
 
