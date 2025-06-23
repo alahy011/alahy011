@@ -63,6 +63,26 @@
 
 ---
 
+<h2 align="center">💼 My Dev Environment</h2>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cursor_logo.svg" height="40" alt="Cursor Editor" title="Cursor Editor" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" height="40" alt="macOS" title="macOS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+</p>
+
+<p align="center">
+  <sub><i>Where creativity meets productivity. This is where the magic happens ✨</i></sub>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
