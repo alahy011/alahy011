@@ -45,7 +45,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" height="40" alt="cursor logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cursor_logo.svg" height="40" alt="Cursor Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" height="40" alt="Apple Logo" />
