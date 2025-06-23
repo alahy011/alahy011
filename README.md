@@ -66,7 +66,7 @@
 <h2 align="center">💼 My Dev Environment</h2>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cursor_logo.svg" height="40" alt="Cursor Editor" title="Cursor Editor" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="40" alt="Cursor"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" height="40" alt="macOS" title="macOS" />
   &nbsp;&nbsp;
